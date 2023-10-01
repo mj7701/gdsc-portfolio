@@ -1,0 +1,224 @@
+.inline-flex{
+    background-color: #fdeceb;
+    font-weight: bold;
+}
+.mr-5{
+    background-color: #fdeceb;
+}
+.imgg{
+    background-image: url(/img/download.png);
+}
+.container1{
+    color: #fdeceb;
+}
+.tracking-widest{
+    color: #fdeceb;
+    font-size: large;
+    font-weight: 400;
+    padding-top: 10px;
+    text-align: center;
+
+   
+}
+.text-green-500{
+   padding: 7px;
+   padding-left: 13px;
+   padding-right: 13px;
+   border-radius: 2px;
+   color: white;
+   font-size: 15px;
+   letter-spacing: 2px;
+   background-color: green;
+   
+}
+.font{
+font-family: poppins;
+font-weight: 900;
+letter-spacing: 1px;
+font-size: 30px;
+color: #fdeceb;
+
+
+
+}
+.font1{
+    color: #fdeceb;
+}
+.txt{
+    font-family: poppins;
+    font-size: 20px;
+    letter-spacing: 2px;
+    padding: 30px;
+    width: 100%;
+}
+.txt1{
+    font-family: poppins;
+    font-size: 25px;
+    letter-spacing: 2px;
+    padding: 30px;
+}
+.sk {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: green;
+    color: #fdeceb;
+    font-weight: bold;
+}
+
+
+ .text-green-500{
+    margin-top: 15px;
+ }
+ .css1{
+    width: 90%;
+    
+ }
+ .image{
+    
+    padding-top: 10px;
+    padding-right: 10px;
+padding-left: 10px;
+padding-bottom: 10px; 
+border-width: 2px;
+display: block;
+width: 25%;
+margin: 0 auto;
+place-items: center;
+border-color: white;
+margin-bottom: 10px;
+border-style: solid;
+border-radius: 50%;
+ }
+ .image:hover{
+    display: inline;
+ }
+ .image1{
+    padding-top: 10px;
+    padding-right: 10px;
+padding-left: 10px;
+padding-bottom: 10px; 
+border-width: 2px;
+display: block;
+width: 25%;
+height: 110px;
+margin: 0 auto;
+place-items: center;
+border-color: white;
+margin-bottom: 10px;
+border-style: solid;
+border-radius: 50%;
+ }
+ .mj{
+    border-radius: 50%;
+    border-color: #fdeceb;
+    border-width: 2px;
+ 
+}
+
+ .image1:hover{
+    display: inline;
+ }
+ .image2{
+    padding-top: 10px;
+    padding-right: 10px;
+padding-left: 10px;
+padding-bottom: 10px; 
+border-width: 2px;
+display: block;
+width: 20%;
+height: 9   0px;
+margin: 0 auto;
+place-items: center;
+border-color: white;
+margin-bottom: 10px;
+border-style: solid;
+border-radius: 50%;
+ }
+ .html{
+    font-size:30px;
+   text-align: center;
+    color: #fdeceb;
+    font-family: poppins;
+    font-weight: bold;
+ }
+ .css{
+    font-size:30px;
+    text-align: center;
+     color: #fdeceb;
+     font-family: poppins;
+     font-weight: bold;
+ }
+ .Bootstrap{
+    font-size:30px;
+    text-align: center;
+     color: #fdeceb;
+     font-family: poppins;
+     font-weight: bold;
+ }
+ .java{
+    font-size:30px;
+    text-align: center;
+     color: #fdeceb;
+     font-family: poppins;
+     font-weight: bold;
+ }
+ .sql{
+    font-size:30px;
+    text-align: center;
+     color: #fdeceb;
+     font-family: poppins;
+     font-weight: bold;
+ }
+ .javascript{
+    font-size:30px;
+    
+    text-align: center;
+     color: #fdeceb;
+     font-family: poppins;
+     font-weight: bold;
+ }
+ /* Reset some default styles */
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the footer */
+.footer {
+    background-color: #222; /* Dark background color */
+    color: #fff; /* Text color */
+    padding: 20px 0; /* Add some padding for spacing */
+}
+
+/* Center the content within the footer */
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px; /* Adjust the width as needed */
+    margin: 0 auto; /* Center horizontally */
+    padding: 0 20px; /* Add some padding to the sides */
+}
+
+/* Style the social media icons */
+.social-icons a {
+    text-decoration: none; /* Remove underlines from links */
+    margin-right: 10px; /* Add spacing between icons */
+    opacity: 0.7; /* Reduce opacity for a subtle effect */
+    transition: opacity 0.3s; /* Add a smooth transition on hover */
+}
+
+.social-icons a:hover {
+    opacity: 1; /* Increase opacity on hover */
+}
+.fa-brands{
+    color: #fdeceb;
+}
+.container5{
+    text-align: center;
+
+
+}
+
+  
+  
